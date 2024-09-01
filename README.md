@@ -1,0 +1,2 @@
+커넥션풀 구현 정리글
+https://velog.io/@rlamw2000/%EC%BB%A4%EB%84%A5%EC%85%98%ED%92%80-%EA%B5%AC%ED%98%84%EA%B3%BC-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C
